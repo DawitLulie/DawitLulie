@@ -1,6 +1,11 @@
-#   Dawit Lulie
+# Dawit Lulie
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=4CAF50,2196F3,FF9800,9C27B0&width=2000&lines=Hi+I%27m+Dawit+Lulie+%F0%9F%91%8B+%7C+Full-Stack+Developer+%F0%9F%92%BB+%7C+Interested+in+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F+%7C+Learning+AI+%F0%9F%A4%96)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=DawitLulie&color=4CAF50)](https://github.com/DawitLulie)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Engineer+from+Ethiopia;Let%E2%80%99s+build+something+special+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 
 
 
