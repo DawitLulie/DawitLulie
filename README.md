@@ -5,7 +5,8 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=DawitLulie&color=4CAF50)](https://github.com/DawitLulie)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Engineer+from+Ethiopia;Let%E2%80%99s+build+something+special+%F0%9F%9A%80)](https://git.io/typing-svg) 🇪🇹
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Engineer+from+Ethiopia;Let's+build+something+special)](https://git.io/typing-svg)
+
 
 
 
