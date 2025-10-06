@@ -1,6 +1,6 @@
 #  Hey there! I’m Dawit Lulie
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=4CAF50,2196F3,FF9800,9C27B0&width=1400&lines=Hi+I%27m+Dawit+Lulie+%F0%9F%91%8B+%7C+Full-Stack+Developer+%F0%9F%92%BB+%7C+Interested+in+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F+%7C+Learning+AI+%F0%9F%A4%96)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=4CAF50,2196F3,FF9800,9C27B0&width=1700&lines=Hi+I%27m+Dawit+Lulie+%F0%9F%91%8B+%7C+Full-Stack+Developer+%F0%9F%92%BB+%7C+Interested+in+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F+%7C+Learning+AI+%F0%9F%A4%96)
 
 
 
