@@ -1,10 +1,10 @@
 # Dawit Lulie
 
 <!-- First line: fast -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=50&color=4CAF50,2196F3,FF9800,9C27B0&width=2000&lines=Hi+I%27m+Dawit+Lulie)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=50&color=4CAF50,2196F3,FF9800,9C27B0&width=2000&lines=Hi+I%27m+Dawit+Lulie)
 
 <!-- Second line: slower typing, stays longer -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=3000&color=4CAF50,2196F3,FF9800,9C27B0&width=2000&lines=Full-Stack+Developer+%F0%9F%92%BB+%7C+Interested+in+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F+%7C+Learning+AI+%F0%9F%A4%96)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=3000&color=4CAF50,2196F3,FF9800,9C27B0&width=2000&lines=Full-Stack+Developer+%F0%9F%92%BB+%7C+Interested+in+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F+%7C+Learning+AI+%F0%9F%A4%96)
 
 
 
