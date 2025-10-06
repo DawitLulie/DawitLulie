@@ -65,5 +65,5 @@ I’m passionate about **building secure, AI-integrated applications** and explo
 
  I love **building secure , scalable , and AI-powered  web applications** that make a difference.  
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Always+Learning...;Always+Building...;Always+Securing...&center=true&width=800&size=30&color=FF5733)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF5733&center=true&vCenter=true&width=1000&lines=💡+Always+Learning++🛠️+Always+Building++🔒+Always+Securing!&size=40&pause=5000)](https://git.io/typing-svg)
 
