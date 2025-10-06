@@ -51,6 +51,10 @@ I’m passionate about **building secure, AI-integrated applications** and explo
 
 ---
 
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=DawitLulie&theme=dark&hide_border=true)
+
+---
+
 ##  Platforms & Competitive Programming
 - **LeetCode:** [Davidawit](https://leetcode.com/u/Davidawit/)   
 - **Codeforces:** [Dawit_Lulie](https://codeforces.com/profile/Dawit_Lulie)   
