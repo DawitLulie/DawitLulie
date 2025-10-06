@@ -66,6 +66,7 @@ I’m passionate about **building secure, AI-integrated applications** and explo
  I love **building secure , scalable , and AI-powered  web applications** that make a difference.  
 
  My Motto:  
+ 
 [![Motto Badge](https://img.shields.io/badge/Always-Learning-4CAF50?style=for-the-badge)](https://github.com/DawitLulie)  
 [![Motto Badge](https://img.shields.io/badge/Always-Building-2196F3?style=for-the-badge)](https://github.com/DawitLulie)  
 [![Motto Badge](https://img.shields.io/badge/Always-Securing-FF9800?style=for-the-badge)](https://github.com/DawitLulie)  
