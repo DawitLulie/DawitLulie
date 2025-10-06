@@ -46,7 +46,8 @@ I’m passionate about **building secure, AI-integrated applications** and explo
 
 ---
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=DawitLulie&theme=dark&hide_border=true)
+## GitHub Contributions
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com?user=DawitLulie&theme=radical&hide_border=true)
 
 ---
 
