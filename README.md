@@ -26,7 +26,7 @@ I’m passionate about **building secure, AI-integrated applications** and explo
 
 ---
 
-## 🛠️ Skills & Experience
+##  Skills & Experience
 - **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
 - **Backend:** Node.js, Express, REST API Design  
 - **Databases:** MySQL, MongoDB  
