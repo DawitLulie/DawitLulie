@@ -1,11 +1,6 @@
 # Dawit Lulie
 
-<!-- First line: fast -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=50&color=4CAF50,2196F3,FF9800,9C27B0&width=2000&height=120&lines=Hi+I%27m+Dawit+Lulie)
-
-<!-- Second line: slower typing, stays longer -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=3000&color=4CAF50,2196F3,FF9800,9C27B0&width=2000&height=120&lines=Full-Stack+Developer+%F0%9F%92%BB+%7C+Interested+in+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F+%7C+Learning+AI+%F0%9F%A4%96)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=300&color=4CAF50,2196F3,FF9800,9C27B0&width=2000&height=150&lines=Hi+I%27m+Dawit+Lulie…;Full-Stack+Developer+%F0%9F%92%BB+%7C+Interested+in+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F+%7C+Learning+AI+%F0%9F%A4%96)
 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=DawitLulie&color=4CAF50)](https://github.com/DawitLulie)
