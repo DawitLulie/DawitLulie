@@ -40,7 +40,8 @@ I’m passionate about **building secure, AI-integrated applications** and explo
 
 ## GitHub Stats
 ![Dawit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DawitLulie&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DawitLulie&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DawitLulie&layout=compact&theme=radical&langs_count=6&hide=html,css,python,c,c%2B%2B)
+
 
 
 ---
