@@ -1,6 +1,6 @@
 # Hi, I’m Dawit Lulie! 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7F7FFF&width=500&lines=Full+Stack+Developer+%7C+Cybersecurity+Enthusiast+%7C+AI+Integrated+Dev)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=7F7FFF&width=1000&lines=Full+Stack+Developer+%7C+Cybersecurity+Enthusiast+%7C+AI+Integrated+Dev)
 
 ---
 
