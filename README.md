@@ -57,10 +57,11 @@ I’m passionate about **building secure, AI-integrated applications** and explo
 
 ---
 
-##  Connect With Me
+## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dawit-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dawit-lulie-5513b5379/)  
 [![Telegram](https://img.shields.io/badge/Telegram-Dave_6584-blue?style=flat-square&logo=telegram)](https://t.me/Dave_6584)  
- Email: dawitlulie2@gmail.com  
+[![Email](https://img.shields.io/badge/Email-dawitlulie2@gmail.com-red?style=flat-square&logo=gmail)](mailto:dawitlulie2@gmail.com)
+
 
 ---
 
