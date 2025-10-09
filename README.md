@@ -38,7 +38,7 @@ My goal is to combine **web development, cybersecurity, and AI** to create innov
 </div>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawitLulie&layout=donut&theme=dark&langs_count=10&hide_border=false" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawitLulie&layout=donut&theme=dark&langs_count=12&hide_border=false&exclude_repo=&langs=JavaScript,Python,C%2B%2B,Java,MySQL,React,Node.js,Express,MongoDB,Tailwind,HTML,CSS,Git" />
   <img width="45%" src="https://github-profile-trophy.vercel.app/?username=DawitLulie&theme=radical" />
 </div>
 
