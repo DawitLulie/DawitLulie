@@ -27,15 +27,6 @@ My goal is to combine **web development, cybersecurity, and AI** to create innov
 
 ---
 
-## 🚀 Featured Projects
-- **Secure Web App Project** — Full-stack application with integrated security features  
-- **Full-Stack Social Media App** — Platform built with React, Node.js, Express, Tailwind CSS, and MySQL  
-- **Full-Stack Lost Person Finder (AI Integrated)** — AI-powered app to help find missing persons  
-- **Full-Stack Applications** — Developed multiple full-stack web apps using React, Node.js, Express, and MySQL  
-- **TaskNest** — Task management web app with authentication, deadlines, and priority tracking (React, Node.js, Express, MySQL, Firebase, CSS)  
-
----
-
 <!-- ✅ GitHub Stats Section (Black Theme) -->
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&center=true&vCenter=true&width=650&height=50&color=000000&duration=3000&lines=GitHub+Stats" />
@@ -84,6 +75,21 @@ My goal is to combine **web development, cybersecurity, and AI** to create innov
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+<!-- Skill Levels -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&center=true&vCenter=true&width=650&height=50&color=4C9AFF&duration=3000&lines=Skill+Levels" />
+</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-90%25-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-85%25-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-80%25-green?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-75%25-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-70%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ---
