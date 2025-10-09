@@ -8,14 +8,15 @@
 
 ---
 
-##  About Me
+## 🧠 About Me  
 I’m **Dawit Lulie**, a **Software Engineering student at Addis Ababa Science and Technology University (AASTU)** and a **full-stack developer**.  
 
-I’m passionate about **building secure, AI-integrated applications** and exploring **cutting-edge technology**. My goal is to combine **web development, cybersecurity, and AI** to create innovative, safe, and efficient solutions.  
+I’m passionate about **building secure, AI-integrated applications** and exploring **cutting-edge technology**.  
+My goal is to combine **web development, cybersecurity, and AI** to create innovative, safe, and efficient solutions.  
 
 ---
 
-## Skills & Experience
+## 🛠️ Skills & Experience
 - **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
 - **Backend:** Node.js, Express, REST API Design  
 - **Databases:** MySQL, MongoDB  
@@ -26,44 +27,33 @@ I’m passionate about **building secure, AI-integrated applications** and explo
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 - **Secure Web App Project** — Full-stack application with integrated security features  
-- **Full-Stack Social Media App** — Complete social media platform built with React, Node.js, Express, Tailwind CSS, and MySQL  
-- **Full-Stack Lost Person Finder (AI Integrated)** — Application that uses AI to help find missing persons  
-- **Full-Stack Applications** — Built web applications using React, Node.js, Express, Tailwind CSS, and MySQL  
-- **TaskNest** — Full-stack task management web application with authentication, deadlines, and priority-based task tracking (React, Node.js, Express, MySQL, Firebase, CSS)  
+- **Full-Stack Social Media App** — Platform built with React, Node.js, Express, Tailwind CSS, and MySQL  
+- **Full-Stack Lost Person Finder (AI Integrated)** — AI-powered app to help find missing persons  
+- **Full-Stack Applications** — Developed multiple full-stack web apps using React, Node.js, Express, and MySQL  
+- **TaskNest** — Task management web app with authentication, deadlines, and priority tracking (React, Node.js, Express, MySQL, Firebase, CSS)  
 
 ---
 
-## GitHub Stats
-![Dawit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DawitLulie&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DawitLulie&layout=compact&theme=radical&langs_count=6&hide=html,css,python,c,c%2B%2B)
-
----
-
-## GitHub Contributions
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com?user=DawitLulie&theme=radical&hide_border=true)
-
----
-
-<!-- 🆕 Added Feature Section: Enhanced GitHub Stats -->
+<!-- ✅ GitHub Stats Section (Black Theme) -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&center=true&vCenter=true&width=650&height=50&color=4C9AFF&duration=3000&lines=GitHub+Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&center=true&vCenter=true&width=650&height=50&color=000000&duration=3000&lines=GitHub+Stats" />
 </h2>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=DawitLulie&show_icons=true&theme=transparent&count_private=true&hide_border=false" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=DawitLulie&theme=transparent&count_private=true&border_radius=10" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=DawitLulie&show_icons=true&theme=dark&count_private=true&hide_border=false" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=DawitLulie&theme=dark&count_private=true&border_radius=10" />
 </div>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawitLulie&layout=donut&theme=transparent&langs_count=8&hide_border=false" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawitLulie&layout=donut&theme=dark&langs_count=10&hide_border=false" />
   <img width="45%" src="https://github-profile-trophy.vercel.app/?username=DawitLulie&theme=radical" />
 </div>
 
 ---
 
-<!-- 🆕 Added Feature Section: Tech Stack -->
+<!-- 🧰 Tech Stack -->
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&center=true&vCenter=true&width=650&height=50&color=FF5733&duration=3000&lines=Tech+Stack" />
 </h2>
@@ -98,4 +88,43 @@ I’m passionate about **building secure, AI-integrated applications** and explo
 
 ---
 
-## 🧮 Platforms & Competitive Programming | Platform | Profile | |-----------|----------| | **LeetCode** | [Davidawit](https://leetcode.com/u/Davidawit/) | | **Codeforces** | [Dawit_Lulie](https://codeforces.com/profile/Dawit_Lulie) | --- ## 🌐 Connect With Me <p align="center"> <a href="https://www.linkedin.com/in/dawit-lulie-5513b5379/"><img src="https://img.shields.io/badge/LinkedIn-Dawit_Lulie-blue?style=for-the-badge&logo=linkedin"></a> <a href="https://t.me/Dave_6584"><img src="https://img.shields.io/badge/Telegram-Dave__6584-blue?style=for-the-badge&logo=telegram"></a> <a href="mailto:dawitlulie2@gmail.com"><img src="https://img.shields.io/badge/Email-dawitlulie2@gmail.com-red?style=for-the-badge&logo=gmail"></a> </p> --- ## ✨ Fun Facts About Me 💡 I love **building secure, scalable, and AI-powered web applications** that make a difference. 🌱 I enjoy **learning continuously** and **turning ideas into reality** through code. <p align="center"> <img src="https://img.shields.io/badge/Always-Learning-4CAF50?style=for-the-badge"/> <img src="https://img.shields.io/badge/Always-Building-2196F3?style=for-the-badge"/> <img src="https://img.shields.io/badge/Always-Securing-FF9800?style=for-the-badge"/> </p> --- ## 🏆 Achievements & Badges <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=DawitLulie&theme=radical&no-frame=true&margin-w=15"/> </div> --- ## 👁️ Visitor Counter <p align="center"> <img src="https://profile-counter.deno.dev/DawitLulie/count.svg" alt="Visitor Count"/> </p>
+## 🧮 Platforms & Competitive Programming
+| Platform | Profile |
+|-----------|----------|
+| **LeetCode** | [Davidawit](https://leetcode.com/u/Davidawit/) |
+| **Codeforces** | [Dawit_Lulie](https://codeforces.com/profile/Dawit_Lulie) |
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/dawit-lulie-5513b5379/"><img src="https://img.shields.io/badge/LinkedIn-Dawit_Lulie-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://t.me/Dave_6584"><img src="https://img.shields.io/badge/Telegram-Dave__6584-blue?style=for-the-badge&logo=telegram"></a>
+  <a href="mailto:dawitlulie2@gmail.com"><img src="https://img.shields.io/badge/Email-dawitlulie2@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+## ✨ Fun Facts About Me
+💡 I love **building secure, scalable, and AI-powered web applications** that make a difference.  
+🌱 I enjoy **learning continuously** and **turning ideas into reality** through code.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Always-Learning-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Always-Building-2196F3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Always-Securing-FF9800?style=for-the-badge"/>
+</p>
+
+---
+
+## 🏆 Achievements & Badges
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DawitLulie&theme=radical&no-frame=true&margin-w=15"/>
+</div>
+
+---
+
+## 👁️ Visitor Counter
+<p align="center">
+  <img src="https://profile-counter.deno.dev/DawitLulie/count.svg" alt="Visitor Count"/>
+</p>
