@@ -20,22 +20,25 @@ I’m passionate about **building secure, AI-integrated applications** and explo
 
 ---
 
-##  Skills & Experience
+## Skills & Experience
 - **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
 - **Backend:** Node.js, Express, REST API Design  
 - **Databases:** MySQL, MongoDB  
-- **Cybersecurity:** Basic principles, secure coding practices  
+- **Cybersecurity & Networking:** Basic principles, secure coding practices, networking  
 - **AI & Machine Learning:** Python, data science, ChatGPT, generative AI  
 - **Tools & DevOps:** Docker, Git, VS Code, CI/CD pipelines  
 - **Programming & Problem Solving:** Python, C++, algorithms, data structures  
 
+
 ---
 
-##  Featured Projects
+## Featured Projects
 - **Secure Web App Project** — Full-stack application with integrated security features  
-- **Full-Stack Social Media App** — Complete social media platform built with React, Node.js, Express, Tailwind CSS, and MySQL 
-- **Full-Stack Lost Person Finder (AI Integrated)** — Application that uses AI to help find missing persons   
+- **Full-Stack Social Media App** — Complete social media platform built with React, Node.js, Express, Tailwind CSS, and MySQL  
+- **Full-Stack Lost Person Finder (AI Integrated)** — Application that uses AI to help find missing persons  
 - **Full-Stack Applications** — Built web applications using React, Node.js, Express, Tailwind CSS, and MySQL  
+- **TaskNest** — Full-stack task management web application with authentication, deadlines, and priority-based task tracking (React, Node.js, Express, MySQL, Firebase, CSS)  
+
 
 ---
 
