@@ -98,24 +98,4 @@ I’m passionate about **building secure, AI-integrated applications** and explo
 
 ---
 
-##  Platforms & Competitive Programming
-- **LeetCode:** [Davidawit](https://leetcode.com/u/Davidawit/)   
-- **Codeforces:** [Dawit_Lulie](https://codeforces.com/profile/Dawit_Lulie)   
-
----
-
-## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dawit-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dawit-lulie-5513b5379/)  
-[![Telegram](https://img.shields.io/badge/Telegram-Dave_6584-blue?style=flat-square&logo=telegram)](https://t.me/Dave_6584)  
-[![Email](https://img.shields.io/badge/Email-dawitlulie2@gmail.com-blue?style=flat-square&logo=gmail)](mailto:dawitlulie2@gmail.com)
-
----
-
-##  Fun Facts About Me  
- I love **building secure , scalable , and AI-powered  web applications** that make a difference.  
-
- My Motto:  
- 
-[![Motto Badge](https://img.shields.io/badge/Always-Learning-4CAF50?style=for-the-badge)](https://github.com/DawitLulie)  
-[![Motto Badge](https://img.shields.io/badge/Always-Building-2196F3?style=for-the-badge)](https://github.com/DawitLulie)  
-[![Motto Badge](https://img.shields.io/badge/Always-Securing-FF9800?style=for-the-badge)](https://github.com/DawitLulie)  
+## 🧮 Platforms & Competitive Programming | Platform | Profile | |-----------|----------| | **LeetCode** | [Davidawit](https://leetcode.com/u/Davidawit/) | | **Codeforces** | [Dawit_Lulie](https://codeforces.com/profile/Dawit_Lulie) | --- ## 🌐 Connect With Me <p align="center"> <a href="https://www.linkedin.com/in/dawit-lulie-5513b5379/"><img src="https://img.shields.io/badge/LinkedIn-Dawit_Lulie-blue?style=for-the-badge&logo=linkedin"></a> <a href="https://t.me/Dave_6584"><img src="https://img.shields.io/badge/Telegram-Dave__6584-blue?style=for-the-badge&logo=telegram"></a> <a href="mailto:dawitlulie2@gmail.com"><img src="https://img.shields.io/badge/Email-dawitlulie2@gmail.com-red?style=for-the-badge&logo=gmail"></a> </p> --- ## ✨ Fun Facts About Me 💡 I love **building secure, scalable, and AI-powered web applications** that make a difference. 🌱 I enjoy **learning continuously** and **turning ideas into reality** through code. <p align="center"> <img src="https://img.shields.io/badge/Always-Learning-4CAF50?style=for-the-badge"/> <img src="https://img.shields.io/badge/Always-Building-2196F3?style=for-the-badge"/> <img src="https://img.shields.io/badge/Always-Securing-FF9800?style=for-the-badge"/> </p> --- ## 🏆 Achievements & Badges <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=DawitLulie&theme=radical&no-frame=true&margin-w=15"/> </div> --- ## 👁️ Visitor Counter <p align="center"> <img src="https://profile-counter.deno.dev/DawitLulie/count.svg" alt="Visitor Count"/> </p>
