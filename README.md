@@ -82,7 +82,7 @@ My goal is to combine **web development, cybersecurity, and AI** to create innov
 
 <!--  GitHub Status Section (Colorful Animated Title) -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=28&center=true&vCenter=true&width=650&height=60&duration=3000&pause=500&color=4CAF50,2196F3,FF9800,9C27B0&lines=+GitHub+Status+" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=28&center=true&vCenter=true&width=650&height=60&duration=3000&pause=500&color=4CAF50,2196F3,FF9800,9C27B0&lines=🚀+GitHub+Status+🚀" />
 </h2>
 
 <div align="center">
@@ -90,24 +90,23 @@ My goal is to combine **web development, cybersecurity, and AI** to create innov
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=DawitLulie&theme=dark&count_private=true&border_radius=10" />
 </div>
 
-<!--  Custom Most Used Languages -->
-<h3 align="center"> Most Used Languages</h3>
+<!-- 🧮 Custom Most Used Languages -->
+<h3 align="center">🌐 Most Used Languages</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-18%25-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-15%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-10%25-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-10%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-8%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-7%25-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-7%25-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-85%25-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-80%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-75%25-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-70%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-68%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-80%25-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-78%25-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<!-- Donut chart + Trophy remain the same -->
+<!-- 🏆 GitHub Trophy Section -->
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawitLulie&layout=donut&theme=dark&langs_count=12&hide_border=false&exclude_repo=&langs=JavaScript,Python,C%2B%2B,Java,MySQL,React,Node.js,Express,MongoDB,Tailwind,HTML,CSS,Git" />
-  <img width="45%" src="https://github-profile-trophy.vercel.app/?username=DawitLulie&theme=radical" />
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=DawitLulie&theme=radical&margin-w=10&no-frame=true" />
 </div>
 
 ---
