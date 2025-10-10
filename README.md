@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 About Me  
+##  About Me  
 I’m **Dawit Lulie**, a **Software Engineering student at Addis Ababa Science and Technology University (AASTU)** and a **full-stack developer**.  
 
 I’m passionate about **building secure, AI-integrated applications** and exploring **cutting-edge technology**.  
@@ -16,18 +16,71 @@ My goal is to combine **web development, cybersecurity, and AI** to create innov
 
 ---
 
-## 🛠️ Skills & Experience
-- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
-- **Backend:** Node.js, Express, REST API Design  
-- **Databases:** MySQL, MongoDB  
-- **Cybersecurity & Networking:** Basic principles, secure coding practices, networking  
-- **AI & Machine Learning:** Python, data science, ChatGPT, generative AI  
-- **Tools & DevOps:** Docker, Git, VS Code, CI/CD pipelines  
-- **Programming & Problem Solving:** Python, C++, algorithms, data structures  
+##  Skills & Experience  
+
+<table align="center">
+  <tr>
+    <th> Frontend</th>
+    <td>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <th> Backend</th>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <th> Databases</th>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <th> Cybersecurity & Networking</th>
+    <td>Secure coding practices · Basic cybersecurity principles · Networking fundamentals</td>
+  </tr>
+  <tr>
+    <th> AI & Machine Learning</th>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=anaconda&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <th> Tools & DevOps</th>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <th> Programming & Problem Solving</th>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Algorithms-9C27B0?style=for-the-badge&logo=codeforces&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Data%20Structures-2196F3?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- ✅ GitHub Stats Section (Black Theme) -->
+
+<!--  GitHub Stats Section (Black Theme) -->
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&center=true&vCenter=true&width=650&height=50&color=000000&duration=3000&lines=GitHub+Stats" />
 </h2>
