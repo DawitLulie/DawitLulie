@@ -80,9 +80,9 @@ My goal is to combine **web development, cybersecurity, and AI** to create innov
 ---
 
 
-<!--  GitHub Stats Section (Black Theme) -->
+<!--  GitHub Status Section (Colorful Animated Title) -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&center=true&vCenter=true&width=650&height=50&color=000000&duration=3000&lines=GitHub+Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=28&center=true&vCenter=true&width=650&height=60&duration=3000&pause=500&color=4CAF50,2196F3,FF9800,9C27B0&lines=🚀+GitHub+Status+🚀" />
 </h2>
 
 <div align="center">
@@ -96,6 +96,7 @@ My goal is to combine **web development, cybersecurity, and AI** to create innov
 </div>
 
 ---
+
 
 <!-- 🧰 Tech Stack -->
 <h2 align="center">
