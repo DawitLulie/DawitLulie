@@ -82,7 +82,7 @@ My goal is to combine **web development, cybersecurity, and AI** to create innov
 
 <!--  GitHub Status Section (Colorful Animated Title) -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=28&center=true&vCenter=true&width=650&height=60&duration=3000&pause=500&color=4CAF50,2196F3,FF9800,9C27B0&lines=🚀+GitHub+Status+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=28&center=true&vCenter=true&width=650&height=60&duration=3000&pause=500&color=4CAF50,2196F3,FF9800,9C27B0&lines=+GitHub+Status+" />
 </h2>
 
 <div align="center">
@@ -90,8 +90,8 @@ My goal is to combine **web development, cybersecurity, and AI** to create innov
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=DawitLulie&theme=dark&count_private=true&border_radius=10" />
 </div>
 
-<!-- 🧮 Custom Most Used Languages -->
-<h3 align="center">🌐 Most Used Languages</h3>
+<!--  Custom Most Used Languages -->
+<h3 align="center"> Most Used Languages</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -104,7 +104,7 @@ My goal is to combine **web development, cybersecurity, and AI** to create innov
   <img src="https://img.shields.io/badge/CSS-78%25-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<!-- 🏆 GitHub Trophy Section -->
+<!--  GitHub Trophy Section -->
 <div align="center">
   <img width="90%" src="https://github-profile-trophy.vercel.app/?username=DawitLulie&theme=radical&margin-w=10&no-frame=true" />
 </div>
@@ -163,7 +163,7 @@ My goal is to combine **web development, cybersecurity, and AI** to create innov
 
 ---
 
-## 🧮 Platforms & Competitive Programming
+##  Platforms & Competitive Programming
 | Platform | Profile |
 |-----------|----------|
 | **LeetCode** | [Davidawit](https://leetcode.com/u/Davidawit/) |
@@ -171,7 +171,7 @@ My goal is to combine **web development, cybersecurity, and AI** to create innov
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/dawit-lulie-5513b5379/"><img src="https://img.shields.io/badge/LinkedIn-Dawit_Lulie-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://t.me/Dave_6584"><img src="https://img.shields.io/badge/Telegram-Dave__6584-blue?style=for-the-badge&logo=telegram"></a>
@@ -180,9 +180,9 @@ My goal is to combine **web development, cybersecurity, and AI** to create innov
 
 ---
 
-## ✨ Fun Facts About Me
-💡 I love **building secure, scalable, and AI-powered web applications** that make a difference.  
-🌱 I enjoy **learning continuously** and **turning ideas into reality** through code.
+##  Fun Facts About Me
+ I love **building secure, scalable, and AI-powered web applications** that make a difference.  
+ I enjoy **learning continuously** and **turning ideas into reality** through code.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Always-Learning-4CAF50?style=for-the-badge"/>
@@ -192,14 +192,14 @@ My goal is to combine **web development, cybersecurity, and AI** to create innov
 
 ---
 
-## 🏆 Achievements & Badges
+##  Achievements & Badges
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DawitLulie&theme=radical&no-frame=true&margin-w=15"/>
 </div>
 
 ---
 
-## 👁️ Visitor Counter
+##  Visitor Counter
 <p align="center">
   <img src="https://profile-counter.deno.dev/DawitLulie/count.svg" alt="Visitor Count"/>
 </p>
