@@ -173,6 +173,9 @@ My goal is to combine **web development, cybersecurity, and AI** to create innov
 
 ---
 
+## Code. Learn. Inspire. <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 ##  **Connect With Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/dawit-lulie-5513b5379/"><img src="https://img.shields.io/badge/LinkedIn-Dawit_Lulie-blue?style=for-the-badge&logo=linkedin"></a>
