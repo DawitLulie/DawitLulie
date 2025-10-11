@@ -172,6 +172,11 @@ My goal is to combine **web development, cybersecurity, and AI** to create innov
 | **Codeforces** | [Dawit_Lulie](https://codeforces.com/profile/Dawit_Lulie) |
 
 ---
+## 📉 My GitHub Contribution Graph <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DawitLulie&theme=tokyo-night&bg_color=0f0f0f&color=00ff99&line=ff4d6d&point=ffffff&area=true&hide_border=true" alt="Dawit Lulie's Colorful Contribution Graph" />
+</p>
+---
 
 ## Code. Learn. Inspire. <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
