@@ -10,11 +10,22 @@
 
 ---
 
-##  About Me  
-I’m **Dawit Lulie**, a **Software Engineering student at Addis Ababa Science and Technology University (AASTU)** and a **full-stack developer**.  
+##  About Me
 
-I’m passionate about **building secure, AI-integrated applications** and exploring **cutting-edge technology**.  
-My goal is to combine **web development, cybersecurity, and AI** to create innovative, safe, and efficient solutions.  
+Hi, I’m **Dawit Lulie** – a **Software Engineering student** at Addis Ababa Science and Technology University (AASTU) and a **Full-Stack Developer**.  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Passionate-Developer-blue?style=for-the-badge&logo=dev.to&logoColor=white" />
+  <img src="https://img.shields.io/badge/Secure_Coding-Yes-green?style=for-the-badge&logo=appveyor&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Enthusiast-Yes-orange?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Innovator-Always-red?style=for-the-badge&logo=adobe&logoColor=white" />
+</p>
+
+<p align="center">
+  I’m passionate about **building secure, AI-integrated applications** and exploring **cutting-edge technologies**.<br>
+  My goal is to combine **web development, cybersecurity, and AI** to create **innovative, safe, and efficient solutions**.
+</p>
+
 
 ---
 
