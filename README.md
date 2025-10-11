@@ -178,10 +178,13 @@ My goal is to combine **web development, cybersecurity, and AI** to create innov
   <a href="mailto:dawitlulie2@gmail.com"><img src="https://img.shields.io/badge/Email-dawitlulie2@gmail.com-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
----
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=48&duration=2500&pause=1000&center=true&vCenter=true&width=1000&color=FF0000&lines=THANKS+FOR+VISITING+PROFILE;THANKS+FOR+VISITING+PROFILE;THANKS+FOR+VISITING+PROFILE;THANKS+FOR+VISITING+PROFILE;THANKS+FOR+VISITING+PROFILE" alt="Typing SVG" />
 </p>
+---
+
 
 
 ##  Fun Facts About Me
