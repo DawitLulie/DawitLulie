@@ -171,18 +171,17 @@ My goal is to combine **web development, cybersecurity, and AI** to create innov
 
 ---
 
-##  Connect With Me
+##  **Connect With Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/dawit-lulie-5513b5379/"><img src="https://img.shields.io/badge/LinkedIn-Dawit_Lulie-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://t.me/Dave_6584"><img src="https://img.shields.io/badge/Telegram-Dave__6584-blue?style=for-the-badge&logo=telegram"></a>
   <a href="mailto:dawitlulie2@gmail.com"><img src="https://img.shields.io/badge/Email-dawitlulie2@gmail.com-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=48&duration=2500&pause=1000&center=true&vCenter=true&width=1000&color=FF0000&lines=THANKS+FOR+VISITING+PROFILE;THANKS+FOR+VISITING+PROFILE;THANKS+FOR+VISITING+PROFILE;THANKS+FOR+VISITING+PROFILE;THANKS+FOR+VISITING+PROFILE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=48&duration=2500&pause=1000&center=true&vCenter=true&width=1000&color=FF5733&lines=Thank+You+for+Visiting+My+Profile!;Have+a+Wonderful+Day!;Let's+Connect+and+Grow+Together!" alt="Typing SVG" />
 </p>
+
 
 ---
 
