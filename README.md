@@ -179,8 +179,9 @@ My goal is to combine **web development, cybersecurity, and AI** to create innov
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=48&duration=2500&pause=1000&center=true&vCenter=true&width=1000&color=FF5733&lines=Thank+You+for+Visiting+My+Profile!;Have+a+Wonderful+Day!;Let's+Connect+and+Grow+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=48&duration=2500&pause=1000&center=true&vCenter=true&width=1000&color=FF5733&lines=Thank+You+for+Visiting+My+Profile!;Let's+Connect+and+Grow+Together!" alt="Typing SVG" />
 </p>
+
 
 
 ---
