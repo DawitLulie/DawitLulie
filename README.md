@@ -12,19 +12,22 @@
 
 ##  About Me
 
-Hi, I’m **Dawit Lulie** – a **Software Engineering student** at Addis Ababa Science and Technology University (AASTU) and a **Full-Stack Developer**.  
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Passionate-Developer-blue?style=for-the-badge&logo=dev.to&logoColor=white" />
-  <img src="https://img.shields.io/badge/Secure_Coding-Yes-green?style=for-the-badge&logo=appveyor&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Enthusiast-Yes-orange?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Innovator-Always-red?style=for-the-badge&logo=adobe&logoColor=white" />
+  I’m <b>Dawit Lulie</b>, a <b>Software Engineering student at Addis Ababa Science and Technology University (AASTU)</b> and a <b>full-stack developer</b>.
 </p>
 
 <p align="center">
-  I’m passionate about **building secure, AI-integrated applications** and exploring **cutting-edge technologies**.<br>
-  My goal is to combine **web development, cybersecurity, and AI** to create **innovative, safe, and efficient solutions**.
+  I’m passionate about <b>building secure, AI-integrated applications</b> and exploring <b>cutting-edge technology</b>.<br>
+  My goal is to combine <b>web development, cybersecurity, and AI</b> to create <b>innovative, safe, and efficient solutions</b>.
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full-Stack-4CAF50?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-2196F3?style=for-the-badge&logo=appveyor&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-FF9800?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Innovation-9C27B0?style=for-the-badge&logo=adobe&logoColor=white" />
+</p>
+
 
 
 ---
