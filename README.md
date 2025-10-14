@@ -61,8 +61,6 @@
   <tr>
     <th> Cybersecurity & Networking</th>
     <td>
-      <img src="https://img.shields.io/badge/Secure%20Coding-4CAF50?style=for-the-badge&logo=appveyor&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Cybersecurity-2196F3?style=for-the-badge&logo=fortinet&logoColor=white"/>
       <img src="https://img.shields.io/badge/Networking-FF9800?style=for-the-badge&logo=cisco&logoColor=white"/>
     </td>
   </tr>
