@@ -111,26 +111,7 @@
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=DawitLulie&theme=dark&count_private=true&border_radius=10" />
 </div>
 
-<!--  Custom Most Used Languages -->
-<h3 align="center"> Most Used Languages</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-85%25-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-80%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-75%25-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-70%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-68%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-80%25-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-78%25-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-<!--  GitHub Trophy Section -->
-<div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=DawitLulie&theme=radical&margin-w=10&no-frame=true" />
-</div>
-
----
 
 <!-- Skill Levels -->
 <h2 align="center">
