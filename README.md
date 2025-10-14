@@ -68,7 +68,6 @@
     <th> AI & Machine Learning</th>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=anaconda&logoColor=white"/>
       <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
     </td>
