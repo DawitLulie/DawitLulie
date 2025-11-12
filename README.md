@@ -173,7 +173,7 @@
 
 ---
 
-##  Achievements & Badges
+# Achievements & Badges
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DawitLulie&theme=radical&no-frame=true&margin-w=15"/>
 </div>
