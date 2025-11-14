@@ -126,7 +126,7 @@
   <img src="https://img.shields.io/badge/Git-59%25-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-42%25-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-32%25-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/MYSQL-04%25-brightgreen?style=for-the-badge&logo=MYSQL&logoColor=red" />
+    <img src="https://img.shields.io/badge/MYSQL-04%25-red?style=for-the-badge&logo=MYSQL&logoColor=white" />
 
 </p>
 
