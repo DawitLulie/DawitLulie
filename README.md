@@ -6,7 +6,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Engineer+from+Ethiopia;Compiling+creativity+into+reality!&size=100&height=150&width=2000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer+from+Ethiopia;Compiling+creativity+into+reality!&size=100&height=150&width=2000)](https://git.io/typing-svg)
 
 ---
 
