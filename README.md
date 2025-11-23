@@ -117,7 +117,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-19%25-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-17%25-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-18%25-blue?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-15%25-green?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-04%25-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-10%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
