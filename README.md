@@ -164,7 +164,7 @@
 ---
 
 ##  Fun Facts About Me
- I love **building secure, scalable, and AI-powered web applications** that make a difference.  
+ I love **building secure, scalable, and AI-powered web/APP applications** that make a difference.  
  I enjoy **learning continuously** and **turning ideas into reality** through code.
 
 <p align="center">
