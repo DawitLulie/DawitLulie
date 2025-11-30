@@ -4,8 +4,6 @@
 
 
 
-
-
 [![Profile Views](https://komarev.com/ghpvc/?username=DawitLulie&color=4CAF50)](https://github.com/DawitLulie)
 
 
