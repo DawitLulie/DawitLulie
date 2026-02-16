@@ -130,11 +130,16 @@
 
 ---
 
-##  Platforms & Competitive Programming
-| Platform | Profile |
-|-----------|----------|
-| **LeetCode** | [Davidawit](https://leetcode.com/u/Davidawit/) |
-| **Codeforces** | [Dawit_Lulie](https://codeforces.com/profile/Dawit_Lulie) |
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&center=true&vCenter=true&width=650&height=50&color=4C9AFF&duration=3000&lines=My+Coding+Platforms+%26+Competitive+Profiles" />
+</h2>
+
+| Platform        | My Profile |
+|-----------------|------------|
+| **LeetCode**    | [Davidawit](https://leetcode.com/u/Davidawit/) |
+| **Codeforces**  | [Dawit_Lulie](https://codeforces.com/profile/Dawit_Lulie) |
+| **GeeksforGeeks** | [DawitLRKZS](https://www.geeksforgeeks.org/profile/dawitlrkzs) |
+| **HackerRank**  | [DawitLulie2](https://www.hackerrank.com/profile/Dawitlulie2) |
 
 ---
 ## 📉 My GitHub Contribution Graph <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
