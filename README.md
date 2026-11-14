@@ -4,7 +4,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=DawitLulie&color=4CAF50)](https://github.com/DawitLulie)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=false&vCenter=true&width=1200&height=60&lines=Software+Engineering+Student+at+AASTU;Turning+Creativity+into+Reality+through+Code;Exploring+Artificial+Intelligence+%26+Machine+Learning;Building+Scalable+and+Intelligent+Applications&color=36BCF7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=false&vCenter=true&width=1100&height=60&lines=Software+Engineer+at+AASTU;Turning+Ideas+into+Reality;Exploring+AI+%26+ML&color=36BCF7)](https://git.io/typing-svg)
 
 ---
 
