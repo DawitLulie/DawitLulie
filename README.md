@@ -62,7 +62,7 @@ My engineering journey includes experiences and learning communities such as **A
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Next.js_Backend-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js_Backend-000000?style=for-the-badge&logo=nest.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     </td>
