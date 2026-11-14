@@ -236,7 +236,9 @@ My engineering journey includes experiences and learning communities such as **A
 
 ---
 
-## Connect With Me
+<h2>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Arial+Black&weight=900&size=30&width=600&height=50&color=00BFFF&duration=3000&lines=🌐+Connect+With+Me" />
+</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dawit-lulie-5513b5379/"><img src="https://img.shields.io/badge/LinkedIn-Dawit_Lulie-blue?style=for-the-badge&logo=linkedin"></a>
