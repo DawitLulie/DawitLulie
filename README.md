@@ -206,7 +206,9 @@ My engineering journey includes experiences and learning communities such as **A
 
 ---
 
-## My GitHub Contribution Graph
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Arial+Black&weight=900&size=38&duration=3000&pause=800&center=true&vCenter=true&width=900&height=65&color=FF4DDE&lines=My+GitHub+Contribution+Graph" />
+</h2>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
 
