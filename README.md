@@ -252,11 +252,9 @@ My engineering journey includes experiences and learning communities such as **A
 
 ## Fun Facts About Me
 
-I love **building secure, scalable, and AI-powered web/mobile applications** that make a difference.
+I enjoy building secure, scalable, AI-powered applications and turning ideas into reality through code.
 
-I enjoy **learning continuously** and **turning ideas into reality** through code.
-
-I am passionate about **competitive programming, algorithmic challenges, and exploring new technologies**.
+Passionate about competitive programming, problem-solving, and exploring emerging technologies.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Always-Learning-4CAF50?style=for-the-badge"/>
