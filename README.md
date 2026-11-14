@@ -201,7 +201,7 @@ My engineering journey includes experiences and learning communities such as **A
 
 | Platform | My Profile |
 |---|---|
-| **LeetCode** | [Davidawit](https://leetcode.com/u/Davidawit/) |
+| **LeetCode** | [Davidawit](https://leetcode.com/u/Davidawit1/) |
 | **Codeforces** | [Dawit_Lulie](https://codeforces.com/profile/Dawit_Lulie) |
 | **GeeksforGeeks** | [DawitLRKZS](https://www.geeksforgeeks.org/profile/dawitlrkzs) |
 | **HackerRank** | [DawitLulie2](https://www.hackerrank.com/profile/Dawitlulie2) |
