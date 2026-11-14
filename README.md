@@ -1,275 +1,202 @@
 # Dawit Lulie
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Black&size=75&pause=1000&color=FF0000&width=1400&height=130&lines=Hi+I'm+Dawit+Lulie;Full-Stack+Developer;Competitive+Programmer;AI+%26+ML+Enthusiast)
+<h2>Software Engineering Student at AASTU</h2>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=DawitLulie&color=4CAF50)](https://github.com/DawitLulie)
-[![GitHub Ranking](https://user-badge.committers.top/ethiopia/DawitLulie.svg)](https://committers.top/ethiopia#DawitLulie)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=36BCF7&width=700&lines=Full-Stack+Developer;Competitive+Programmer;AI+%26+Machine+Learning+Enthusiast;Building+Practical+Software)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=false&vCenter=true&width=1100&height=50&lines=Software+Engineering+Student+at+AASTU;Full-Stack+Developer+%7C+Competitive+Programmer;Exploring+Artificial+Intelligence+%26+Machine+Learning;Building+Scalable+and+Intelligent+Applications&color=36BCF7)](https://git.io/typing-svg)
-
----
-
-## About Me
-
-I’m **Dawit Lulie**, a Software Engineering student at **AASTU**, Full-Stack Developer, and Competitive Programmer from Ethiopia.
-
-I enjoy solving challenging algorithmic problems and building scalable web, mobile, and AI-powered applications.
-
-My engineering journey includes experiences and learning communities such as **A2SV, iCog Labs, Gebeta Maps, and INSA**, with interests spanning software engineering, AI/ML, geospatial technology, and DevOps.
-
-<p>
-  <img src="https://img.shields.io/badge/Full--Stack-4CAF50?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Competitive_Programming-2196F3?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI_%26_ML-FF9800?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mobile_Development-9C27B0?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+My journey includes learning and building through **A2SV, iCog Labs, Gebeta Maps, and INSA**. I enjoy problem-solving, software development, and exploring new technologies.
 
 ---
 
 ## Skills & Experience
 
-<table>
-  <tr>
-    <th>Programming Languages</th>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <th>Frontend Development</th>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <th>Backend Development</th>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Next.js_Backend-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <th>Mobile App Development</th>
-    <td>
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <th>AI & Machine Learning</th>
-    <td>
-      <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-      <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <th>Data Structures & Algorithms</th>
-    <td>
-      <img src="https://img.shields.io/badge/Data_Structures-2196F3?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Competitive_Programming-FF5722?style=for-the-badge&logo=codeforces&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Graph_Algorithms-00897B?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Dynamic_Programming-673AB7?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Greedy_Algorithms-388E3C?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Number_Theory-795548?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Computational_Geometry-607D8B?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Advanced_Algorithms-1565C0?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Complexity_Analysis-455A64?style=for-the-badge"/>
-    </td>
-  </tr>
-  <tr>
-    <th>Databases & Data Engineering</th>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vector_Databases-5E35B1?style=for-the-badge"/>
-    </td>
-  </tr>
-  <tr>
-    <th>GIS & Geospatial Development</th>
-    <td>
-      <img src="https://img.shields.io/badge/MapLibre_GL_JS-396CB2?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/GeoJSON-4CAF50?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Mapbox_Style_Spec-000000?style=for-the-badge&logo=mapbox&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Web_Mapping-2196F3?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Geospatial_Data-00897B?style=for-the-badge"/>
-    </td>
-  </tr>
-  <tr>
-    <th>DevOps & Tools</th>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <th>Software Engineering & Requirements</th>
-    <td>
-      <img src="https://img.shields.io/badge/Requirements_Engineering-1565C0?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/System_Design-673AB7?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Software_Architecture-455A64?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/SRS_Documentation-2196F3?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Technical_Documentation-00897B?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-      <img src="https://img.shields.io/badge/API_Design-005571?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Testing_%26_Debugging-4CAF50?style=for-the-badge"/>
-    </td>
-  </tr>
-  <tr>
-    <th>Cybersecurity & Networking</th>
-    <td>
-      <img src="https://img.shields.io/badge/Cybersecurity-2196F3?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Networking-FF9800?style=for-the-badge&logo=cisco&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Application_Security-4CAF50?style=for-the-badge"/>
-    </td>
-  </tr>
-</table>
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,dart,php" />
+</p>
 
----
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
 
-<!-- GitHub Status -->
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nextjs" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" />
+</p>
 
-<h2>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&width=600&height=50&color=4CAF50&duration=3000&lines=GitHub+Status" />
-</h2>
+### Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,dart,flutter" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
 
-![GitHub Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=DawitLulie&show_icons=true&theme=onedark)
+### AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-008080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative_AI-7B2CBF?style=for-the-badge" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=DawitLulie&theme=radical)
+### Data Structures & Algorithms
+<p>
+  <img src="https://img.shields.io/badge/Data_Structures-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Graph_Algorithms-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dynamic_Programming-6F42C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Greedy_Algorithms-238636?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Number_Theory-8957E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computational_Geometry-0969DA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Complexity_Analysis-555555?style=for-the-badge" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DawitLulie&layout=compact&theme=radical)
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_Databases-4B32C3?style=for-the-badge" />
+</p>
 
----
+### GIS & Mapping
+<p>
+  <img src="https://img.shields.io/badge/MapLibre_GL_JS-396CB2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GeoJSON-147D64?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mapbox_Style_Spec-000000?style=for-the-badge&logo=mapbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Geospatial_Data-228B22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web_Mapping-2673B8?style=for-the-badge" />
+</p>
 
-<!-- Skill Levels -->
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,linux,postman,vscode" />
+</p>
 
-<h2>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&width=600&height=50&color=4C9AFF&duration=3000&lines=Skill+Levels" />
-</h2>
+### Software Engineering
+<p>
+  <img src="https://img.shields.io/badge/Requirements_Engineering-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System_Design-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software_Architecture-008080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SRS_Documentation-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Technical_Documentation-0969DA?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-70%25-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-35%25-green?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-50%25-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-25%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-75%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-45%25-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-80%25-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-76%25-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-55%25-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MYSQL-85%25-pink?style=for-the-badge&logo=MYSQL&logoColor=white" />
+### Cybersecurity & Networking
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-222222?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+  <img src="https://img.shields.io/badge/Computer_Networking-1572B6?style=for-the-badge" />
 </p>
 
 ---
 
-<h2>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&width=850&height=50&color=4C9AFF&duration=3000&lines=My+Coding+Platforms+%26+Competitive+Profiles" />
-</h2>
+## GitHub Status
 
-| Platform | My Profile |
-|---|---|
-| **LeetCode** | [Davidawit](https://leetcode.com/u/Davidawit/) |
-| **Codeforces** | [Dawit_Lulie](https://codeforces.com/profile/Dawit_Lulie) |
-| **GeeksforGeeks** | [DawitLRKZS](https://www.geeksforgeeks.org/profile/dawitlrkzs) |
-| **HackerRank** | [DawitLulie2](https://www.hackerrank.com/profile/Dawitlulie2) |
+<p align="left">
+  <a href="https://github.com/DawitLulie">
+    <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=DawitLulie&show_icons=true&theme=onedark"/>
+  </a>
+  <a href="https://github.com/DawitLulie">
+    <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app?user=DawitLulie&theme=radical"/>
+  </a>
+</p>
+
+---
+
+## Skill Levels
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-80%25-green?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/React-70%25-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-35%25-yellow?style=for-the-badge&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/MongoDB-50%25-green?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/C++-25%25-orange?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Python-75%25-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Java-45%25-red?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/Git-80%25-orange?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Postman-76%25-orange?style=for-the-badge&logo=postman" />
+  <img src="https://img.shields.io/badge/Docker-55%25-blue?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/MySQL-85%25-blue?style=for-the-badge&logo=mysql" />
+</p>
+
+---
+
+## My Coding Platforms & Competitive Profiles
+
+<p align="left">
+  <a href="https://leetcode.com/u/Davidawit/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/Dawit_Lulie">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/dawitlrkzs">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/Dawitlulie2">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## My GitHub Contribution Graph
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
+[![Dawit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DawitLulie&theme=tokyo-night&bg_color=0f0f0f&color=00ff99&line=ff4d6d&point=ffffff&area=true&hide_border=true)](https://github.com/DawitLulie)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DawitLulie&theme=tokyo-night&bg_color=0f0f0f&color=00ff99&line=ff4d6d&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DawitLulie/DawitLulie/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/DawitLulie/DawitLulie/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
 
 ## Wisdom for Future Engineers
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> Great things are done by a series of small things brought together.
 
 ---
 
 ## Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dawit-lulie-5513b5379/"><img src="https://img.shields.io/badge/LinkedIn-Dawit_Lulie-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://t.me/Dave_6584"><img src="https://img.shields.io/badge/Telegram-Dave__6584-blue?style=for-the-badge&logo=telegram"></a>
-  <a href="mailto:dawitlulie2@gmail.com"><img src="https://img.shields.io/badge/Email-dawitlulie2@gmail.com-red?style=for-the-badge&logo=gmail"></a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=38&duration=2500&pause=1000&center=true&vCenter=true&width=1000&height=80&color=FF5733&lines=Thank+You+for+Visiting+My+Profile!;Let's+Connect+and+Grow+Together!" alt="Typing SVG" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/dawit-lulie-5513b5379/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/Dave_6584">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:dawitlulie2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## Fun Facts About Me
 
-I love **building secure, scalable, and AI-powered web/mobile applications** that make a difference.
+- I enjoy solving challenging algorithmic problems.
+- I am interested in Artificial Intelligence and Machine Learning.
+- I enjoy exploring new technologies and building projects.
+- I believe consistent practice is the key to improvement.
 
-I enjoy **learning continuously** and **turning ideas into reality** through code.
+---
 
-I am passionate about **competitive programming, algorithmic challenges, and exploring new technologies**.
+## Achievements & Badges
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Always-Learning-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Always-Building-2196F3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Always-Securing-FF9800?style=for-the-badge"/>
+<p align="left">
+  <a href="https://github.com/DawitLulie">
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=DawitLulie&theme=onedark&no-frame=true&column=-1&title=AchieveSSSRank,MultiLanguage,Organizations,Commits,Followers,PullRequest,Repositories,Reviews,Stars,Experience" />
+  </a>
 </p>
 
----
-
-# Achievements & Badges
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=DawitLulie&theme=onedark&no-frame=true&column=-1&title=AchieveSSSRank,MultiLanguage,Organizations,Commits,Followers,PullRequest,Repositories,Reviews,Stars,Experience)](https://github.com/DawitLulie)
-
-</div>
-
----
+<p align="left">
+  <a href="https://committers.top/ethiopia#DawitLulie">
+    <img src="https://user-badge.committers.top/ethiopia/DawitLulie.svg" alt="GitHub Ranking"/>
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile;Keep+Learning.+Keep+Building." alt="Thank you"/>
 </p>
