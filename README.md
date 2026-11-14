@@ -1,10 +1,9 @@
 # Dawit Lulie
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Black&size=75&pause=1000&color=FF0000&width=1400&height=130&lines=Hi+I'm+Dawit+Lulie;Full-Stack+Developer;Competitive+Programmer;AI+%26+ML+Enthusiast)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=DawitLulie&color=4CAF50)](https://github.com/DawitLulie)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=false&vCenter=true&width=1100&height=60&lines=Software+Engineer+at+AASTU;Turning+Ideas+into+Reality;Exploring+AI+%26+ML&color=36BCF7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=false&vCenter=true&width=1200&height=60&lines=Software+Engineer;Turning+Creativity+into+Reality;Exploring+AI+%26+ML;Let's+Build+Something+Extraordinary!&color=36BCF7)](https://git.io/typing-svg)
 
 ---
 
