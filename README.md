@@ -1,54 +1,35 @@
 # Dawit Lulie
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&weight=900&size=65&pause=1000&color=FF5733&center=true&vCenter=true&width=1100&height=100&lines=DAWIT+LULIE;SOFTWARE+ENGINEER;COMPETITIVE+PROGRAMMER;FULL-STACK+DEVELOPER;AI+%26+TECHNOLOGY+ENTHUSIAST" alt="Animated Introduction" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Black&size=75&pause=1000&color=FF0000&width=1400&height=130&lines=Hi+I'm+Dawit+Lulie;Full-Stack+Developer;Competitive+Programmer;AI+%26+ML+Enthusiast)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DawitLulie&color=4CAF50&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=DawitLulie&color=4CAF50)](https://github.com/DawitLulie)
+[![GitHub Ranking](https://user-badge.committers.top/ethiopia/DawitLulie.svg)](https://committers.top/ethiopia#DawitLulie)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=23&duration=3000&pause=800&center=true&vCenter=true&width=1100&height=55&color=2196F3&lines=Turning+complex+problems+into+elegant+solutions;Building+intelligent+systems+that+make+an+impact;Exploring+the+intersection+of+AI+and+software+engineering;From+algorithms+to+real-world+applications" alt="Animated Tagline" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=false&vCenter=true&width=1100&height=50&lines=Software+Engineering+Student+at+AASTU;Full-Stack+Developer+%7C+Competitive+Programmer;Exploring+Artificial+Intelligence+%26+Machine+Learning;Building+Scalable+and+Intelligent+Applications&color=36BCF7)](https://git.io/typing-svg)
 
 ---
 
 ## About Me
 
-<p align="center">
-  <b>I am Dawit Lulie, a Software Engineering student at Addis Ababa Science and Technology University (AASTU), a Full-Stack Developer, and a Competitive Programmer driven by curiosity, creativity, and the challenge of solving complex problems.</b>
-</p>
+I’m **Dawit Lulie**, a Software Engineering student at **AASTU**, Full-Stack Developer, and Competitive Programmer from Ethiopia.
 
-<p align="center">
-  <b>My world revolves around building technology that goes beyond the ordinary.</b> I move between algorithmic problem-solving, scalable software architecture, modern web and mobile development, and the rapidly evolving world of Artificial Intelligence.
-</p>
+I enjoy solving challenging algorithmic problems and building scalable web, mobile, and AI-powered applications.
 
-<p align="center">
-  As an <b>A2SVian</b>, and through my learning and engineering journey with <b>iCog Labs, Gebeta Maps, and INSA</b>, I continue exploring how technology can transform ideas into practical solutions.
-</p>
+My engineering journey includes experiences and learning communities such as **A2SV, iCog Labs, Gebeta Maps, and INSA**, with interests spanning software engineering, AI/ML, geospatial technology, and DevOps.
 
-<p align="center">
-  From optimizing an algorithm to designing intelligent AI-powered systems, from engineering robust backend services to creating interactive geospatial applications, I enjoy every layer of the engineering process.
-</p>
-
-<p align="center">
-  <b>Curiosity drives the questions. Engineering shapes the answers. Code brings the ideas to life.</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FULL--STACK_DEVELOPER-4CAF50?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/COMPETITIVE_PROGRAMMER-2196F3?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Full--Stack-4CAF50?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Competitive_Programming-2196F3?style=for-the-badge&logo=codeforces&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI_%26_ML-FF9800?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MOBILE_DEVELOPER-9C27B0?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DEVOPS-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mobile_Development-9C27B0?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
 
 ## Skills & Experience
 
-<table align="center">
+<table>
   <tr>
     <th>Programming Languages</th>
     <td>
@@ -61,7 +42,6 @@
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     </td>
   </tr>
-
   <tr>
     <th>Frontend Development</th>
     <td>
@@ -72,7 +52,6 @@
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
     </td>
   </tr>
-
   <tr>
     <th>Backend Development</th>
     <td>
@@ -84,7 +63,6 @@
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     </td>
   </tr>
-
   <tr>
     <th>Mobile App Development</th>
     <td>
@@ -93,9 +71,8 @@
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
     </td>
   </tr>
-
   <tr>
-    <th>Artificial Intelligence & Machine Learning</th>
+    <th>AI & Machine Learning</th>
     <td>
       <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -108,7 +85,6 @@
       <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
     </td>
   </tr>
-
   <tr>
     <th>Data Structures & Algorithms</th>
     <td>
@@ -123,7 +99,6 @@
       <img src="https://img.shields.io/badge/Complexity_Analysis-455A64?style=for-the-badge"/>
     </td>
   </tr>
-
   <tr>
     <th>Databases & Data Engineering</th>
     <td>
@@ -135,7 +110,6 @@
       <img src="https://img.shields.io/badge/Vector_Databases-5E35B1?style=for-the-badge"/>
     </td>
   </tr>
-
   <tr>
     <th>GIS & Geospatial Development</th>
     <td>
@@ -146,7 +120,6 @@
       <img src="https://img.shields.io/badge/Geospatial_Data-00897B?style=for-the-badge"/>
     </td>
   </tr>
-
   <tr>
     <th>DevOps & Tools</th>
     <td>
@@ -161,7 +134,6 @@
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
     </td>
   </tr>
-
   <tr>
     <th>Software Engineering & Requirements</th>
     <td>
@@ -175,7 +147,6 @@
       <img src="https://img.shields.io/badge/Testing_%26_Debugging-4CAF50?style=for-the-badge"/>
     </td>
   </tr>
-
   <tr>
     <th>Cybersecurity & Networking</th>
     <td>
@@ -186,26 +157,26 @@
   </tr>
 </table>
 
-<br/>
-<br/>
+---
 
-<!-- GitHub Status Section -->
+<!-- GitHub Status -->
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=27&center=true&vCenter=true&width=900&height=65&duration=3000&pause=500&color=4CAF50&lines=GitHub+Status;Consistency+Builds+Great+Engineers" />
+<h2>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&width=600&height=50&color=4CAF50&duration=3000&lines=GitHub+Status" />
 </h2>
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DawitLulie&show_icons=true&theme=dark&count_private=true&hide_border=false" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DawitLulie&theme=dark&count_private=true&border_radius=10" />
-</div>
+![GitHub Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=DawitLulie&show_icons=true&theme=onedark)
 
-<br/>
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=DawitLulie&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DawitLulie&layout=compact&theme=radical)
+
+---
 
 <!-- Skill Levels -->
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=26&center=true&vCenter=true&width=850&height=60&color=4C9AFF&duration=3000&lines=Skill+Levels;Learning+Today%2C+Building+Tomorrow" />
+<h2>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&width=600&height=50&color=4C9AFF&duration=3000&lines=Skill+Levels" />
 </h2>
 
 <p align="center">
@@ -222,11 +193,10 @@
   <img src="https://img.shields.io/badge/MYSQL-85%25-pink?style=for-the-badge&logo=MYSQL&logoColor=white" />
 </p>
 
-<br/>
-<br/>
+---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=26&center=true&vCenter=true&width=950&height=60&color=4C9AFF&duration=3000&lines=My+Coding+Platforms+%26+Competitive+Profiles;Practice.+Compete.+Improve." />
+<h2>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&width=850&height=50&color=4C9AFF&duration=3000&lines=My+Coding+Platforms+%26+Competitive+Profiles" />
 </h2>
 
 | Platform | My Profile |
@@ -236,9 +206,6 @@
 | **GeeksforGeeks** | [DawitLRKZS](https://www.geeksforgeeks.org/profile/dawitlrkzs) |
 | **HackerRank** | [DawitLulie2](https://www.hackerrank.com/profile/Dawitlulie2) |
 
-<br/>
-<br/>
-
 ---
 
 ## My GitHub Contribution Graph
@@ -246,14 +213,12 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DawitLulie&theme=tokyo-night&bg_color=0f0f0f&color=00ff99&line=ff4d6d&point=ffffff&area=true&hide_border=true" width="100%" alt="Dawit Lulie's GitHub Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DawitLulie&theme=tokyo-night&bg_color=0f0f0f&color=00ff99&line=ff4d6d&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DawitLulie/DawitLulie/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/DawitLulie/DawitLulie/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated Contribution Snake"/>
 </p>
-
-<br/>
 
 ---
 
@@ -262,8 +227,6 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<br/>
 
 ---
 
@@ -276,22 +239,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=38&duration=2500&pause=1000&center=true&vCenter=true&width=1100&height=100&color=FF5733&lines=Thank+You+for+Visiting+My+Profile!;Let's+Connect+and+Grow+Together!;Great+Things+Start+With+Curiosity!" alt="Animated Closing Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=38&duration=2500&pause=1000&center=true&vCenter=true&width=1000&height=80&color=FF5733&lines=Thank+You+for+Visiting+My+Profile!;Let's+Connect+and+Grow+Together!" alt="Typing SVG" />
 </p>
-
-<br/>
 
 ---
 
 ## Fun Facts About Me
 
-I love **building secure, scalable, and AI-powered web and mobile applications** that make a difference.
+I love **building secure, scalable, and AI-powered web/mobile applications** that make a difference.
 
 I enjoy **learning continuously** and **turning ideas into reality** through code.
 
 I am passionate about **competitive programming, algorithmic challenges, and exploring new technologies**.
-
-I believe that every difficult problem is an opportunity to learn something new and become a better engineer.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Always-Learning-4CAF50?style=for-the-badge"/>
@@ -299,14 +258,14 @@ I believe that every difficult problem is an opportunity to learn something new 
   <img src="https://img.shields.io/badge/Always-Securing-FF9800?style=for-the-badge"/>
 </p>
 
-<br/>
-
 ---
 
 # Achievements & Badges
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DawitLulie&theme=radical&no-frame=true&margin-w=15"/>
+
+[![GitHub Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=DawitLulie&theme=onedark&no-frame=true&column=-1&title=AchieveSSSRank,MultiLanguage,Organizations,Commits,Followers,PullRequest,Repositories,Reviews,Stars,Experience)](https://github.com/DawitLulie)
+
 </div>
 
 ---
