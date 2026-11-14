@@ -1,7 +1,5 @@
 <h1 align="center">
-  <span style="color:#D946EF;">✦</span>
-  <span style="color:#A855F7;">DAWIT LULIE</span>
-  <span style="color:#D946EF;">✦</span>
+  <font size="7" color="#FFD700">◆ 𝗗𝗔𝗪𝗜𝗧 𝗟𝗨𝗟𝗜𝗘 ◆</font>
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Black&size=75&pause=1000&color=FF0000&width=1400&height=130&lines=Hi+I'm+Dawit+Lulie;Full-Stack+Developer;Competitive+Programmer;AI+%26+ML+Enthusiast)
