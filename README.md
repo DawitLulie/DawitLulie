@@ -4,7 +4,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=DawitLulie&color=4CAF50)](https://github.com/DawitLulie)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3500&pause=1000&center=false&vCenter=true&width=1200&height=60&lines=Software+Engineering+Student+at+AASTU;Full-Stack+Developer+%7C+Competitive+Programmer;Exploring+AI+%26+ML;Building+Scalable+and+Intelligent+Applications&color=36BCF7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=false&vCenter=true&width=1200&height=60&lines=Software+Engineering+Student+at+AASTU;Full-Stack+Developer+%7C+Competitive+Programmer;Exploring+AI+%26+ML;Building+Scalable+and+Intelligent+Applications&color=36BCF7)](https://git.io/typing-svg)
 
 ---
 
@@ -238,7 +238,7 @@ My engineering journey includes experiences and learning communities such as **A
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=38&duration=2500&pause=1000&center=true&vCenter=true&width=1000&height=80&color=FF5733&lines=Thank+You+for+Visiting+My+Profile!;Let's+Connect+and+Grow+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=50&duration=3000&pause=1000&center=true&vCenter=true&width=1000&height=80&color=FF5733&lines=Thank+You+for+Visiting+My+Profile!;Let's+Connect+and+Grow+Together!" alt="Typing SVG" />
 </p>
 
 ---
