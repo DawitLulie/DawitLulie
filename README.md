@@ -1,6 +1,6 @@
 <h1 align="left">
   <font size="50" color="#A855F7">
-    💠 ◆ 𝐃𝐀𝐖𝐈𝐓 𝐋𝐔𝐋𝐈𝐄 ◆ 💠
+     𝐃𝐀𝐖𝐈𝐓 𝐋𝐔𝐋𝐈𝐄 
   </font>
 </h1>
 
