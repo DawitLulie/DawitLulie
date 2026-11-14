@@ -1,5 +1,5 @@
 <h1 align="center">
-  <font size="7" color="#A855F7">
+  <font size="20" color="#A855F7">
     💠 ◆ 𝐃𝐀𝐖𝐈𝐓 𝐋𝐔𝐋𝐈𝐄 ◆ 💠
   </font>
 </h1>
