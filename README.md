@@ -210,14 +210,16 @@ My engineering journey includes experiences and learning communities such as **A
   <img src="https://readme-typing-svg.herokuapp.com/?font=Arial+Black&weight=900&size=38&duration=3000&pause=800&center=true&vCenter=true&width=900&height=65&color=FF4DDE&lines=My+GitHub+Contribution+Graph" />
 </h2>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DawitLulie&theme=tokyo-night&bg_color=0f0f0f&color=00ff99&line=ff4d6d&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
-</p>
-
+<!-- Contribution Snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/DawitLulie/DawitLulie/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated Contribution Snake"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
+
+<!-- GitHub Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DawitLulie&theme=tokyo-night&bg_color=0f0f0f&color=00ff99&line=ff4d6d&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
