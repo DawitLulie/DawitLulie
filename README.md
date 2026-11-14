@@ -250,8 +250,9 @@ My engineering journey includes experiences and learning communities such as **A
 
 ---
 
-## Fun Facts About Me
-
+<h2>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Arial+Black&weight=900&size=30&width=600&height=50&color=A855F7&duration=3000&lines=✦+Fun+Facts+About+Me" />
+</h2>
 I enjoy building secure, scalable, AI-powered applications and turning ideas into reality through code.
 
 Passionate about competitive programming, problem-solving, and exploring emerging technologies.
@@ -264,8 +265,9 @@ Passionate about competitive programming, problem-solving, and exploring emergin
 
 ---
 
-# Achievements & Badges
-
+<h2>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Arial+Black&weight=900&size=30&width=600&height=50&color=FFD700&duration=3000&lines=🏆+Achievements+%26+Badges" />
+</h2>
 <div align="center">
 
 [![GitHub Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=DawitLulie&theme=onedark&no-frame=true&column=-1&title=AchieveSSSRank,MultiLanguage,Organizations,Commits,Followers,PullRequest,Repositories,Reviews,Stars,Experience)](https://github.com/DawitLulie)
