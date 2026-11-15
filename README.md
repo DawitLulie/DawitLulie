@@ -227,12 +227,6 @@ My engineering journey includes experiences and learning communities such as **A
 </p>
 
 ---
-
-<h2>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&width=850&height=50&color=4C9AFF&duration=3000&lines=My+Coding+Platforms+%26+Competitive+Profiles" />
-</h2>
-
-
 <h2>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&width=850&height=50&color=4C9AFF&duration=3000&lines=My+Coding+Platforms+%26+Competitive+Profiles" />
 </h2>
