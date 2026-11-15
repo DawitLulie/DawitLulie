@@ -163,8 +163,6 @@ My engineering journey includes experiences and learning communities such as **A
 
 
 ---
-<!-- GitHub Status -->
-
 
 <!-- GitHub Status -->
 
@@ -179,12 +177,13 @@ My engineering journey includes experiences and learning communities such as **A
 
 <br/>
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Arial+Black&weight=900&size=30&duration=3000&pause=800&center=true&vCenter=true&width=850&height=55&color=FFD700&lines=✦+Most+Used+Languages+✦;The+Languages+Behind+My+Code;Building+with+Every+Line!" />
+</h2>
+
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawitLulie&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" />
+  <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawitLulie&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" />
 </div>
-
----
-
 
 ---
 
